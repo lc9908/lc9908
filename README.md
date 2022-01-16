@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lc9908
-- 👀 I’m interested in ... Game and Programming
-- 🌱 I’m currently learning ... TryHackMe and LeetCode
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Leo Chan, a computer science graduate from York University.
+- 👀 I’m interested in ... Cybersecurity and Coding. 
+- 🎨 My Hobbies are ... playing game and sports(Basketball, golf, tennis, etc...), watching NBA and learning languages
+- 🌱 I’m currently learning ... network and cybersecurity on TryHackMe and solving coding problem LeetCode.
 - 📫 How to reach me ... leochan19990828@gmail.com  
 
 <!---
