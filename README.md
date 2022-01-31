@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning ... network and cybersecurity on TryHackMe and solving coding problem LeetCode.
 - 📫 How to reach me ... leochan19990828@gmail.com  
 
+Go to my Portfolio:https://github.com/lc9908/myPortfolio(Haven't make it public yet)
+
 <!---
 lc9908/lc9908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
