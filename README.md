@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leo Chan, a computer science graduate from York University.
 - 👀 I’m interested in ... Programming.
 - 🎨 My Hobbies are ... playing game and sports(Basketball, golf, tennis, etc...), watching NBA and learning languages
-- 🌱 I’m currently learning ... network and cybersecurity on TryHackMe and solving coding problem LeetCode.
+- 🌱 I’m currently learning ... Python, and how to create Website with html/css/javascript.
 - 📫 How to reach me ... leochan19990828@gmail.com  
 
 Go to my Portfolio:https://lc9908.github.io/myPortfolio/
