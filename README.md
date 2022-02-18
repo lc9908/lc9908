@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leo Chan, a computer science graduate from York University.
-- 👀 I’m interested in ... Cybersecurity and Coding. 
+- 👀 I’m interested in ... Programming.
 - 🎨 My Hobbies are ... playing game and sports(Basketball, golf, tennis, etc...), watching NBA and learning languages
 - 🌱 I’m currently learning ... network and cybersecurity on TryHackMe and solving coding problem LeetCode.
 - 📫 How to reach me ... leochan19990828@gmail.com  
